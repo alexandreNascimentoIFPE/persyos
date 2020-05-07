@@ -1,0 +1,27 @@
+{
+  "name": "persyos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "peer": "^0.5.2",
+    "peerjs": "^1.2.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandreNascimentoIFPE/persyos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandreNascimentoIFPE/persyos/issues"
+  },
+  "homepage": "https://github.com/alexandreNascimentoIFPE/persyos#readme"
+}

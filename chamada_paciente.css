@@ -1,0 +1,87 @@
+.titulotelachamada {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	align: center;
+	color: #ffffff;
+	font-weight: bolder;
+}
+.pacientechamadonome {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 80px;
+	align: center;
+	color: #036;
+	font-weight: bolder;
+}
+.pacientechamadoespecialidade {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	align: center;
+	color: #666;
+	font-weight: bolder;
+}
+.textorodape {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	padding: 1px;
+}
+.subtitle {
+	padding: 8px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	color: #FFF;
+}
+.conteudo {
+	padding-left: 8px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 20px;
+	font-weight: bolder;
+	color: #000;
+}
+.ultimospacientechamadonome {
+	padding-left: 8px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	align: center;
+	color: #036;
+	font-weight: bolder;
+}
+.ultimoschamadoespecialidade {
+	padding-left: 8px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	align: center;
+	color: #666;
+	font-weight: bolder;
+}
+.form_tela_chamada {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 35px;
+	color: #000;
+	border: thin solid #036;
+	padding: 2 2 2 8px;
+	border-radius: 10px;
+	text-align: center;
+}.pacientechamadook {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	color: #000;
+	background-color: #3C3;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
+.pacientechamadoerro {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	color: #FFF;
+	background-color: #F00;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.data {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #ffffff;
+}
